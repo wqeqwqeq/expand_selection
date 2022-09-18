@@ -1,0 +1,10 @@
+[
+  {
+  "caption": "Selection: Expand to Quotes",
+  "command": "expand_selection_to_quotes"
+  },
+  {
+  "caption": "Selection: Expand to Semicolon",
+  "command": "expand_selection_to_semicolon"
+  }
+]

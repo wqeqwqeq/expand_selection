@@ -1,0 +1,7 @@
+[
+	{
+		"keys": ["ctrl+'"], "command": "expand_selection_to_quotes"
+	},	{
+		"keys": ["ctrl+q"], "command": "expand_selection_to_semicolon"
+	},
+]
